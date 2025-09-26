@@ -20,10 +20,7 @@ A comprehensive machine learning system that predicts passenger survival on the 
 - **🐳 Docker Support**: Containerized deployment with Docker Compose
 - **🧪 Testing Suite**: Comprehensive unit tests for all components
 
-## 🎯 Quick Demo
 
-### Web Interface
-![Web Interface Demo](https://via.placeholder.com/800x400/667eea/white?text=Titanic+Survival+Predictor+Web+Interface)
 
 ### Real-time Streaming
 ```bash
